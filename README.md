@@ -1,19 +1,19 @@
 
 ### My Projects:
 
-Airbnb Clone: <a href="" > Deploy </a> & <a href="https://github.com/juliemayak/real-estate" > Repo </a> 
+Airbnb Clone: <a href="https://airbnb-clone-nu-eight.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/real-estate" > Repo </a> 
 
-Amazon Clone: <a href="" > Deploy </a> & <a href="https://github.com/juliemayak/amazon-clone" > Repo </a> 
+Amazon Clone: <a href="https://amazon-clone-tawny-five.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/amazon-clone" > Repo </a> 
 
-Real Estate Agency: <a href="" > Deploy </a> & <a href="https://github.com/juliemayak/real-estate" > Repo </a> 
+Real Estate Agency: <a href="https://real-estate-five-alpha.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/real-estate" > Repo </a> 
 
-Netflix Clone: <a href="" > Deploy </a> & <a href="https://github.com/juliemayak/netflix-clone" > Repo </a> 
+Netflix Clone: <a href="https://netflix-clone-seven-azure.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/netflix-clone" > Repo </a> 
 
-A website for defining the Case of a noun in Russian language: <a href="" > Deploy </a> & <a href="https://github.com/juliemayak/sklonyator" > Repo </a> 
+A website for defining the Case of a noun in Russian language: <a href="https://sklonyator.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/sklonyator" > Repo </a> 
 
-A group chat with Web3 login: <a href="" > Deploy </a> & <a href="https://github.com/juliemayak/metaverse-web3-groupchat" > Repo </a> 
+A group chat with Web3 login: <a href="https://metaverse-eight.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/metaverse-web3-groupchat" > Repo </a> 
 
-Music Player: <a href="" > Deploy </a> & <a href="https://github.com/juliemayak/react-music-player" > Repo </a> 
+Music Player: <a href="https://waves-jp.netlify.app/" > Deploy </a> & <a href="https://github.com/juliemayak/react-music-player" > Repo </a> 
 
 
 ---
