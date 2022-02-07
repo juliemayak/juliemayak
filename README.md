@@ -1,7 +1,7 @@
 
 ### My Projects:
 
-Airbnb Clone: <a href="https://airbnb-clone-nu-eight.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/real-estate" > Repo </a> 
+Airbnb Clone: <a href="https://airbnb-clone-nu-eight.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/airbnb-clone" > Repo </a> 
 
 Amazon Clone: <a href="https://amazon-clone-tawny-five.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/amazon-clone" > Repo </a> 
 
