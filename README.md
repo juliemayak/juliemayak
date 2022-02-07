@@ -20,21 +20,21 @@ Music Player: <a href="https://waves-jp.netlify.app/" > Deploy </a> & <a href="h
 
 #### Contact me via
 
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/juliemayak)
+[![Telegram](https://img.shields.io/badge/Telegram-4c4c4c?style=for-the-badge&logo=telegram)](https://t.me/juliemayak)
 
 ---
 
 ### My Programming Language Proficiency:
 
-![CSS](https://img.shields.io/badge/css-111111?style=for-the-badge&logo=CSS3)
-![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=TypeScript)
-![react](https://img.shields.io/badge/react-111111?style=for-the-badge&logo=React)
-![nextjs](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=Next.js)
-![redux](https://img.shields.io/badge/redux-111111?style=for-the-badge&logo=Redux)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=Git)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=SQL)
-![PLSQL](https://img.shields.io/badge/PL/SQL-111111?style=for-the-badge&logo=Oracle)
+![CSS](https://img.shields.io/badge/css-4c4c4c?style=for-the-badge&logo=CSS3)
+![HTML](https://img.shields.io/badge/html-4c4c4c?style=for-the-badge&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/JavaScript-4c4c4c?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-4c4c4c?style=for-the-badge&logo=TypeScript)
+![react](https://img.shields.io/badge/react-4c4c4c?style=for-the-badge&logo=React)
+![nextjs](https://img.shields.io/badge/next.js-4c4c4c?style=for-the-badge&logo=Next.js)
+![redux](https://img.shields.io/badge/redux-4c4c4c?style=for-the-badge&logo=Redux)
+![Git](https://img.shields.io/badge/Git-4c4c4c?style=for-the-badge&logo=Git)
+![SQL](https://img.shields.io/badge/SQL-4c4c4c?style=for-the-badge&logo=SQL)
+![PLSQL](https://img.shields.io/badge/PLSQL-4c4c4c?style=for-the-badge&logo=Oracle)
 
 
