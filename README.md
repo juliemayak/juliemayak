@@ -1,6 +1,7 @@
 
 ![Profile_image](https://user-images.githubusercontent.com/72749081/152789318-8f3148ba-a3e9-42ba-88b2-8f3ba7df91ec.JPEG)
 
+---
 
 ### My Projects:
 
