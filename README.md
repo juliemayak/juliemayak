@@ -1,4 +1,7 @@
 
+![Profile_image](https://user-images.githubusercontent.com/72749081/152789318-8f3148ba-a3e9-42ba-88b2-8f3ba7df91ec.JPEG)
+
+
 ### My Projects:
 
 Airbnb Clone: <a href="https://airbnb-clone-nu-eight.vercel.app/" > Deploy </a> & <a href="https://github.com/juliemayak/airbnb-clone" > Repo </a> 
@@ -18,7 +21,7 @@ Music Player: <a href="https://waves-jp.netlify.app/" > Deploy </a> & <a href="h
 
 ---
 
-#### Contact me via
+### Contact me via
 
 [![Telegram](https://img.shields.io/badge/Telegram-4c4c4c?style=for-the-badge&logo=telegram)](https://t.me/juliemayak)
 
