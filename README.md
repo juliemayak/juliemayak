@@ -10,6 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-4c4c4c?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4c4c4c?style=for-the-badge&logo=TypeScript)
 ![Vue3](https://img.shields.io/badge/Vuejs-4c4c4c?style=for-the-badge&logo=Vue.js)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs)
 ![Git](https://img.shields.io/badge/Git-4c4c4c?style=for-the-badge&logo=Git)
 ![SQL](https://img.shields.io/badge/SQL-4c4c4c?style=for-the-badge&logo=SQL)
